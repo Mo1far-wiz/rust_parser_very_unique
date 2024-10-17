@@ -1,0 +1,9 @@
+[package]
+name = "rust_parser_very_unique"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "cringe"
+
+[dependencies]
+peg = "0.8.4"
